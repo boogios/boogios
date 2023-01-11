@@ -51,6 +51,8 @@ It is a free cocktail service, one glass every day. You can use this service if 
 
 🏆 Awards
 ```
+- 2022 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회, 장려상 (Bronze Award🥉)
+
 - 2022 ITM전공 IT서비스 공모전(기획) - Cocktaily, 금상 (Gold Award🏅)
 
 - 2021 ITM전공 IT서비스 공모전(개발) - 청설모, 동상 (Bronze Award🥉)
