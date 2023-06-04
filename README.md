@@ -21,6 +21,7 @@ Tools
 
 📚 Things I learned
 ```
+- Swift (TECHIT APP SCHOOL3)
 - Kotlin (Mobile Programming)
 - Java (Operating Systems Design)
 - Python (Programming Language / Data Mining / Business Analytics)
@@ -30,6 +31,13 @@ Tools
 ```
 
 👨‍💻 The project I developed
+> SeoulTech Student Council App, [ST 총학생회 (App store Download Link)](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619) <br>
+
+It is an app created by the Student Association of Seoul National University of Science and Technology and includes various functions such as reservation of regular business and participation in festival events for the convenience of college students.
+
+<img width="205" alt="스크린샷 2022-12-26 오후 4 16 03" src="https://github.com/tkddn0518/tkddn0518/assets/59056821/bdf46e50-68a6-44ba-af9a-48c61f17e0ab">
+<img width="200" alt="스크린샷 2022-12-26 오후 4 16 03" src="https://github.com/tkddn0518/tkddn0518/assets/59056821/860c26f4-7025-443e-8693-8ff5604ad644">
+
 > Around Taxi Member, [ATM](https://github.com/2022-Mobile-Programming/ATM)<br>
 
 An application that helps you find people with the same origin and destination around you<br> so that you can take a taxi together to use the taxi fare at a lower price.
