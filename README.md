@@ -19,7 +19,7 @@ Tools
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-📚 Things I learned
+### 📚 Things I learned
 ```
 - Swift (TECHIT APP SCHOOL3)
 - Kotlin (Mobile Programming)
@@ -30,13 +30,13 @@ Tools
 - HTML, CSS, Javascript (Database Practice Web Programming)
 ```
 
-👨‍💻 The project I developed
+### 👨‍💻 The project I developed
 > SeoulTech Student Council App, [ST 총학생회 (App store Download Link)](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619) <br>
 
 It is an app created by the Student Association of Seoul National University of Science and Technology and includes various functions such as reservation of regular business and participation in festival events for the convenience of college students.
 
 <img width="205" alt="스크린샷 2022-12-26 오후 4 16 03" src="https://github.com/tkddn0518/tkddn0518/assets/59056821/bdf46e50-68a6-44ba-af9a-48c61f17e0ab">
-<img width="200" alt="스크린샷 2022-12-26 오후 4 16 03" src="https://github.com/tkddn0518/tkddn0518/assets/59056821/860c26f4-7025-443e-8693-8ff5604ad644">
+<img width="200" alt="스크린샷 2022-12-26 오후 4 16 03" src="https://github.com/tkddn0518/tkddn0518/assets/59056821/860c26f4-7025-443e-8693-8ff5604ad644"><br>
 
 > Around Taxi Member, [ATM](https://github.com/2022-Mobile-Programming/ATM)<br>
 
@@ -50,14 +50,14 @@ This is a web service for college students who need a survey. It encourages peop
 
 <img width="300" alt="스크린샷 2022-12-26 오후 4 13 50" src="https://user-images.githubusercontent.com/59056821/209517074-fe994fae-8a47-4e1f-84d3-c6bef14360a5.png">
 
-✍️ The project I planned
+### ✍️ The project I planned
 > Subscription Drinking App Service, Cocktaily
 
 It is a free cocktail service, one glass every day. You can use this service if you pay a certain subscription fee every month.
 
 <img width="500" alt="스크린샷 2022-12-26 오후 4 11 49" src="https://user-images.githubusercontent.com/59056821/209516919-c751a25d-9862-4de1-9bb9-14d1acded705.png">
 
-🏆 Awards
+### 🏆 Awards
 ```
 - 2022 서울 노원지역 4개 대학 연합 ESG 창업 아이디어 경진대회, 장려상 (Bronze Award🥉)
 
@@ -70,7 +70,7 @@ It is a free cocktail service, one glass every day. You can use this service if 
 - 2018 ITM전공 IT서비스 공모전(기획) - 우리동네카페, 장려상 (Bronze Award🥉)
 ```
 
-🔍 Where to find me
+### 🔍 Where to find me
 ```
 E-mail : tkddn0518@naver.com
 Instagram : @turtle.e_woo
