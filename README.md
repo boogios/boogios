@@ -19,6 +19,8 @@ Tools
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkddn0518)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📚 Things I learned
 ```
 - Swift (TECHIT APP SCHOOL3)
