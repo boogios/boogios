@@ -34,7 +34,7 @@ Tools
 
 ### 👨‍💻 The project I developed
 <details>
-<summary>서울과학기술대학교 총학생회 앱</summary>
+<summary>서울과학기술대학교 총학생회 앱 (Swift, UIKit) </summary>
    
 **SeoulTech Student Council App** [App Store Download](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619) 
 
@@ -47,7 +47,7 @@ It is an app created by the Student Association of Seoul National University of 
 </details>  
   
 <details>
-<summary>택시 같이 타요 Around Taxi Member</summary>
+<summary>택시 같이 타요 Around Taxi Member (Android, Kotlin) </summary>
 
 **Around Taxi Member** [ATM](https://github.com/2022-Mobile-Programming/ATM)
   
@@ -59,7 +59,7 @@ An application that helps you find people with the same origin and destination a
 </details>  
 
 <details>
-<summary>청년들을 위한 설문조사 모임, 청설모 </summary>
+<summary>청년들을 위한 설문조사 모임, 청설모 (Web, Front-End) </summary>
   
 **Survey Web Site** [CheongSeolMo](https://github.com/tkddn0518/sulveyWeb)
   
