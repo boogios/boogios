@@ -29,7 +29,7 @@ Tools
 - Python (Programming Language / Data Mining / Business Analytics)
 - C (Operating Systems Design / Computer System)
 - SQL (Database Management)
-- HTML, CSS, Javascript (Database Practice Web Programming)
+- HTML, CSS, Javascript, Hadoop, PHP (Database Practice Web Programming)
 ```
 
 ### 👨‍💻 The project I developed
