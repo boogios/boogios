@@ -34,6 +34,12 @@ Tools
 
 ### 👨‍💻 The project I developed
 <details>
+<summary>하이볼 구독 앱 서비스, 하이볼리 (SwiftUI) </summary>
+
+</div>
+</details>  
+
+<details>
 <summary>서울과학기술대학교 총학생회 앱 (Swift, UIKit) </summary>
    
 **SeoulTech Student Council App** [App Store Download](https://apps.apple.com/kr/app/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90-%EC%B4%9D%ED%95%99%EC%83%9D%ED%9A%8C/id1641852619) 
