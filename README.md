@@ -1,4 +1,4 @@
-## Hi! I'm Byeon Sangwoo👋
+## Hi! I'm Byeon Sangwoo, Boogios👋
 
 I'm currently attending Seoul National University of Science and Technology and living in Seoul.
 
@@ -23,7 +23,7 @@ Tools
 
 ### 📚 Things I learned
 ```
-- Swift (TECHIT APP SCHOOL3)
+- Swift (TECHIT APP SCHOOL2)
 - Kotlin (Mobile Programming)
 - Java (Operating Systems Design)
 - Python (Programming Language / Data Mining / Business Analytics)
