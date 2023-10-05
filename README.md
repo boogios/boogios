@@ -23,7 +23,7 @@ Tools
 
 ### 📚 Things I learned
 ```
-- Swift (TECHIT APP SCHOOL2)
+- Swift (TECH!T APP SCHOOL2)
 - Kotlin (Mobile Programming)
 - Java (Operating Systems Design)
 - Python (Programming Language / Data Mining / Business Analytics)
@@ -105,5 +105,5 @@ It is a free cocktail service, one glass every day. You can use this service if 
 ### 🔍 Where to find me
 ```
 E-mail : tkddn0518@naver.com
-Instagram : @turtle.e_woo
+Instagram : @turtle_e.woo
 ```
