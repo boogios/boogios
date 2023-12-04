@@ -30,17 +30,17 @@
 
 ### 🖥️ I developed...
 - 하이볼 구독 앱, [하이볼리](https://apps.apple.com/kr/app/id6466261262) (SwiftUI)
-- 나만의 Private 장소 공유 SNS 앱, [Private](https://apps.apple.com/kr/app/id6466261262) (SwiftUI)
+- 나만의 Private 장소 공유 SNS 앱, [Private](https://github.com/APP-iOS2/final-private) (SwiftUI)
 - 서울과학기술대학교 총학생회 앱, [SeoulTech Total Council](https://apps.apple.com/kr/app/id1641852619) (Swift, UIKit)
 - 택시 같이 타요 앱, [Around Taxi Member, ATM](https://github.com/2022-Mobile-Programming/ATM) (Android, Kotlin)
 - 청년들을 위한 설문조사 모임 웹사이트, [청설모](https://github.com/tkddn0518/sulveyWeb) (Web, Front-End)
   
 ### ✍️ The project I planned...
-- 제주도의 핫플만 돌아다닐 수 있는 여행 앱, [핫플버스](https://apps.apple.com/kr/app/id6466261262)
-- 구독형 드링킹 앱, [Cocktaily](https://apps.apple.com/kr/app/id6466261262)
-- 모든 사람이 믿을 수 있는 투명한 기부 문화를 만들어 가는 기부 앱, [DELIVERS](https://apps.apple.com/kr/app/id6466261262)
-- 자취생을 위한 공동구매 앱, [GOODBUYING](https://apps.apple.com/kr/app/id6466261262)
-- 동네 카페 통합 쿠폰 앱, [우리동네카페](https://apps.apple.com/kr/app/id6466261262)
+- 제주도의 핫플만 돌아다닐 수 있는 여행 앱, [핫플버스](https://caramel-debt-ddd.notion.site/3c5c92f20f004237a235b423064b83e4?pvs=4)
+- 구독형 드링킹 앱, [Cocktaily](https://caramel-debt-ddd.notion.site/Cocktaily-6361f10cedc44fbc9b2991ed72e2bb1b?pvs=4)
+- 모든 사람이 믿을 수 있는 투명한 기부 문화를 만들어 가는 기부 앱, [DELIVERS](https://caramel-debt-ddd.notion.site/DELIVERS-af9d88d5030d4cd1a8696fb8cbb5ec97?pvs=4)
+- 자취생을 위한 공동구매 앱, [GOODBUYING](https://caramel-debt-ddd.notion.site/GOODBUYING-d2a30d82ae474ae09b69fd61e8d1a86f?pvs=4)
+- 동네 카페 통합 쿠폰 앱, [우리동네카페](https://caramel-debt-ddd.notion.site/d6408b634b2f49cf866c97d767bb6cae?pvs=4)
 
 ### 🏆 Awards
 ```
