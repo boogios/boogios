@@ -36,11 +36,11 @@
 - 청년들을 위한 설문조사 모임 웹사이트, [청설모](https://github.com/tkddn0518/sulveyWeb) (Web, Front-End)
   
 ### ✍️ The project I planned...
-- 제주도의 핫플만 돌아다닐 수 있는 여행 앱, [핫플버스](https://caramel-debt-ddd.notion.site/3c5c92f20f004237a235b423064b83e4?pvs=4)
-- 구독형 드링킹 앱, [Cocktaily](https://caramel-debt-ddd.notion.site/Cocktaily-6361f10cedc44fbc9b2991ed72e2bb1b?pvs=4)
-- 모든 사람이 믿을 수 있는 투명한 기부 문화를 만들어 가는 기부 앱, [DELIVERS](https://caramel-debt-ddd.notion.site/DELIVERS-af9d88d5030d4cd1a8696fb8cbb5ec97?pvs=4)
-- 자취생을 위한 공동구매 앱, [GOODBUYING](https://caramel-debt-ddd.notion.site/GOODBUYING-d2a30d82ae474ae09b69fd61e8d1a86f?pvs=4)
-- 동네 카페 통합 쿠폰 앱, [우리동네카페](https://caramel-debt-ddd.notion.site/d6408b634b2f49cf866c97d767bb6cae?pvs=4)
+- 제주도의 핫플만 돌아다닐 수 있는 여행 앱, [핫플버스](https://boogios.notion.site/3c5c92f20f004237a235b423064b83e4?pvs=4)
+- 구독형 드링킹 앱, [Cocktaily](https://boogios.notion.site/Cocktaily-6361f10cedc44fbc9b2991ed72e2bb1b?pvs=4)
+- 모든 사람이 믿을 수 있는 투명한 기부 문화를 만들어 가는 기부 앱, [DELIVERS](https://boogios.notion.site/DELIVERS-af9d88d5030d4cd1a8696fb8cbb5ec97?pvs=4)
+- 자취생을 위한 공동구매 앱, [GOODBUYING](https://boogios.notion.site/GOODBUYING-d2a30d82ae474ae09b69fd61e8d1a86f?pvs=4)
+- 동네 카페 통합 쿠폰 앱, [우리동네카페](https://boogios.notion.site/d6408b634b2f49cf866c97d767bb6cae?pvs=4)
 
 ### 🏆 Awards
 ```
