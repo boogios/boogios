@@ -9,7 +9,7 @@
 🎓University of Northumbria at Newcastle, Industrial Engineering - 복수학위
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boogios&theme=dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; ![Boogios's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogios&show_icons=true&bg_color=00000000&title_color=6495ED&icon_color=F1D246&text_color=8C9196&line_height=33)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boogios&title_color=6495ED&bord3D3D&text_color=8C9196&border_color=3D3D3D&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; ![Boogios's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogios&show_icons=true&bg_color=00000000&title_color=6495ED&icon_color=F1D246&text_color=8C9196&line_height=33&custom_title=Sangwoo's&nbsp;GitHub&nbsp;Stats&border_color=3D3D3D&theme=transparent)
 
 ### 🧰 I'm working on...
 | 기간 | 내용 |
