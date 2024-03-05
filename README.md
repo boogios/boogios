@@ -33,7 +33,7 @@
 | 2018.03 ~ 2018.12 | ⭐️ 서울과학기술대학교 ITM전공 제7대 세미콜론 학생회 홍보부원 ⭐️ |
 
 ### 🖥️ I developed...
-- 투명도로 만드는 온화한 커뮤니티 앱, [Don't Be👻](https://testflight.apple.com/join/Jjm0Kdda) (UIKit)
+- 투명도로 만드는 온화한 커뮤니티 앱, [Don't Be👻](https://github.com/TeamDon-tBe/Don-tBe-iOS) (UIKit)
 - 하이볼 구독 앱, [하이볼리](https://apps.apple.com/kr/app/id6466261262) (SwiftUI)
 - 나만의 Private 장소 공유 SNS 앱, [Private](https://github.com/APP-iOS2/final-private) (SwiftUI)
 - 서울과학기술대학교 총학생회 앱, [SeoulTech Total Council](https://apps.apple.com/kr/app/id1641852619) (Swift, UIKit)
