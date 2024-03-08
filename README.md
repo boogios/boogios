@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Sangwoo's%20GitHub-!&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
 
-## Product Manager & iOS 개발자 Boogios, 변상우입니다.👋
+## 서비스 기획자 & iOS 개발자 Boogios, 변상우입니다.👋
 
-### "단순한 앱을 제작하는 것이 아닌 하나의 `IT Product 서비스`를 만드는 iOS 개발자 & Product Manager"
+### "단순한 앱을 제작하는 것이 아닌 하나의 `IT Product 서비스`를 만드는 iOS 개발자 & 서비스 기획자"
 
 ```
 🎓Seoul National University of Science and Technology, ITM (IT Management) - 재학중
