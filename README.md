@@ -9,18 +9,20 @@
 🎓University of Northumbria at Newcastle, Industrial Engineering - 복수학위
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boogios&title_color=6495ED&bord3D3D&text_color=8C9196&border_color=3D3D3D&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; ![Boogios's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogios&show_icons=true&bg_color=00000000&title_color=6495ED&icon_color=F1D246&text_color=8C9196&line_height=33&custom_title=Sangwoo's&nbsp;GitHub&nbsp;Stats&border_color=3D3D3D&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boogios&title_color=6495ED&exclude_repo=Information-Security&bord3D3D&text_color=8C9196&border_color=3D3D3D&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; ![Boogios's GitHub stats](https://github-readme-stats.vercel.app/api?username=boogios&show_icons=true&bg_color=00000000&title_color=6495ED&icon_color=F1D246&text_color=8C9196&line_height=33&custom_title=Sngwoo's&nbsp;GitHub&nbsp;Stats&border_color=3D3D3D&theme=transparent)
 
 ### 🧰 I'm working on...
 | 기간 | 내용 |
 |:--:|:--:|
-| 2023.03 ~ | 🔥 대학생 연합 IT 벤처 창업 동아리 NOW SOPT 34기 기획 파트 OB 🚀 |
+| 2024.06 ~ | 🩵 학생회와 학생들의 목소리로 함께 만들어가는 대학 생활 필수 앱, 유니보이스 대표 Team Leader 🩵 |
+| 2024.03 ~ | 🔥 대학생 연합 IT 벤처 창업 동아리 NOW SOPT 34기 기획 파트 OB 🚀 |
 | 2024.01 ~ | 🦁 멋쟁이사자처럼 서울과학기술대학교 12기 대표 🦁 |
 | 2023.12 ~ | 👻 온화한 커뮤니티, Don't Be iOS Developer 👻 |
 
 ### 🙌 I did...
 | 기간 | 내용 |
 |:--:|:--:|
+| 2024.07 ~ 2024.08 | 💚 2024 하나 소셜벤처 유니버시티 최종 합격 💚 |
 | 2023.02 ~ 2024.02 | 🍹 하이볼 구독 앱, 하이볼리 대표 & iOS Developer 🥂 |
 | 2024.01 ~ 2024.02 | ⏰ 멋쟁이사자처럼 트렌디톤 연합해커톤 "타임트리스" 기획 ⏰ |
 | 2023.09 ~ 2024.01 | 🍎 대학생 연합 IT 벤처 창업 동아리 DO SOPT 33기 iOS파트 수료 🍏 |
